@@ -14,12 +14,6 @@ matplotlib
 Installation
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/yourusername/restaurant-data-analysis.git
-Navigate to the project directory:
-bash
-Copy code
-cd restaurant-data-analysis
 Install the required libraries:
 bash
 Copy code
